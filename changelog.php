@@ -11,6 +11,7 @@
                         <?php include('jsontest.php'); ?>
 		</br></br>
                 <div id="txtHint"></div>
+                </br>
 		<div>
 			<label for ="StartDate"> Start Date:</label>
 			<input type="date" name="date1">

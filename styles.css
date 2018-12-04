@@ -1,3 +1,4 @@
+/*kalau ga ke update press ctrl+f5*/
 body {
     background-color: #EEEEF0;
 }
@@ -31,6 +32,16 @@ label {
   font-family: sans-serif;
  }
 
+#cb{
+  float:left;
+  widht:30%;
+  margin-right:0.5em;
+  padding-top:0.2em;
+  text-align:left;
+  font-family: sans-serif;
+  font-size:8.5pt;
+}
+
  .B_Export{
  	background-color: #1E313A;
     border: none;
@@ -55,3 +66,9 @@ label {
     background-color: #3d5768;
     color: white;
 }
+
+ .boxes{
+    height:90px;
+    overflow:auto;
+    width:350px;
+  }
